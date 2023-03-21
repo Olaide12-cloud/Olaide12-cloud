@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Olaide12-cloud
-- 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently learning Data Analytics 
-- 💞️ I’m looking to collaborate on Data Visualization projects 
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on Web Development projects
 - 📫 How to reach me ...
 
 <!---
